@@ -178,7 +178,6 @@ private-*
 
 # IDE
 .idea/
-.vscode/
 *.swp
 *.swo
 
@@ -228,3 +227,7 @@ test-files/.perry-cache/
 /examples/wasm_ui_demo.html
 android-build/app/src/main/jniLibs/
 /res/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
